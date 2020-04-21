@@ -1,0 +1,33 @@
+﻿Public Holiday,Dates for 2016,Applies to the Following States,Trading Day1,Settlement Activity -,Settlement Activity - ASX Clear (Derivatives),Business Day2
+,,,,ASX Settlement (CHESS),,
+New Year's Day,Friday 1 January,ALL,CLOSED,No Settlement,No Settlement,NO
+Devonport Cup,Wednesday 6 January,TAS3,OPEN,Settlement,Settlement,YES
+Australia Day,Tuesday 26 January,ALL,CLOSED,No Settlement,No Settlement,NO
+Royal Hobart Regatta,Monday 8 February,TAS4,OPEN,Settlement,Settlement,YES
+Launceston Cup,Wednesday 24 February,TAS5,OPEN,Settlement,Settlement,YES
+King Island Show,Tuesday 1 March,TAS6,OPEN,Settlement,Settlement,YES
+Labour Day,Monday 7 March,WA,OPEN,Settlement,Settlement,YES
+Labour Day / Eight Hours Day,Monday 14 March,VIC / TAS,OPEN,No Settlement,Settlement,NO
+Adelaide Cup / Canberra Day,,SA / ACT,,,,
+Good Friday,Friday 25 March,ALL,CLOSED,No Settlement,No Settlement,NO
+Easter Monday,Monday 28 March,ALL,CLOSED,No Settlement,No Settlement,NO
+ANZAC Day,Monday 25 April,ALL,CLOSED,No Settlement,No Settlement,NO
+May Day / Labour Day,Monday 2 May,NT / QLD,OPEN,Settlement,Settlement,YES
+AGFEST,Friday 6 May,TAS7,OPEN,Settlement,Settlement,YES
+Western Australia Day,Monday 6 June,WA,OPEN,Settlement,Settlement,YES
+Queen's Birthday,Monday 13 June,ALL except WA & QLD,CLOSED,No Settlement,No Settlement,NO
+Bank Holiday / Picnic Day,Monday 1 August,NSW8 / NT,OPEN,No Settlement,Settlement,NO
+Royal QLD Show,Wednesday 10 August,QLD9,OPEN,Settlement,Settlement,YES
+Queen's Birthday,Monday 26 September,WA,OPEN,Settlement,Settlement,YES
+Burnie Show,Friday 30 September,TAS10,OPEN,Settlement,Settlement,YES
+Labour Day / Queen's Birthday,Monday 3 October,"NSW, SA",OPEN,No Settlement,Settlement,NO
+,,& ACT / QLD,,,,
+Royal Launceston Show,Thursday 6 October,TAS11,OPEN,Settlement,Settlement,YES
+Flinders Island Show,Friday 14 October,TAS12,OPEN,Settlement,Settlement,YES
+Royal Hobart Show,Thursday 20 October,TAS13,OPEN,Settlement,Settlement,YES
+Melbourne Cup Day,Tuesday 1 November,VIC,OPEN,No Settlement,Settlement,NO
+Devonport Show,Friday 25 November,TAS14,OPEN,Settlement,Settlement,YES
+Last Business Day before Christmas Day,Friday 23 December,ALL,CLOSE EARLY15,Settlement,Settlement,YES
+Christmas Day,Monday 26 December16,ALL,CLOSED,No Settlement,No Settlement,NO
+Boxing Day / Proclamation Day / Christmas Day Holiday,Tuesday 27 December17,WA / SA / ALL except SA & WA,CLOSED,No Settlement,No Settlement,NO            
+Last Busness Day of the Year,Friday 30 December,ALL,CLOSE EARLY18,Settlement,Settlement,YES

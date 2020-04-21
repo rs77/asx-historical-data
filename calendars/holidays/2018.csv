@@ -1,0 +1,12 @@
+﻿Public Holiday,Dates for 2018,Applies to the Following States,Trading Day1,Settlement Activity -,Settlement Activity - ASX Clear (Derivatives),Business Day2
+,,,,ASX Settlement (CHESS),,
+New Year's Day,Monday 1 January,ALL,CLOSED,No Settlement,No Settlement,NO
+Australia Day,Friday 26 January,ALL,CLOSED,No Settlement,No Settlement,NO
+Good Friday,Friday 30 March,ALL,CLOSED,No Settlement,No Settlement,NO
+Easter Monday,Monday 2 April,ALL,CLOSED,No Settlement,No Settlement,NO
+ANZAC Day,Wednesday 25 April,ALL,CLOSED,No Settlement,No Settlement,NO
+Queen's Birthday,Monday 11 June,ALL except WA & QLD,CLOSED,No Settlement,No Settlement,NO
+Last Business Day before Christmas Day,Monday 24 December,ALL,CLOSE EARLY3,Settlement,Settlement,YES
+Christmas Day,Tuesday 25 December,ALL,CLOSED,No Settlement,No Settlement,NO
+Boxing Day / Proclamation Day,Wednesday 26 December,ALL except SA / SA,CLOSED,No Settlement,No Settlement,NO            
+Last Business Day of the Year,Monday 31 December,ALL,CLOSE EARLY3,Settlement,Settlement,YES

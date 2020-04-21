@@ -1,0 +1,12 @@
+﻿Public Holiday,Dates for 2020,Trading Day1,Settlement Activity -,Settlement Activity - ASX Clear (Derivatives),Business Day2
+,,,ASX Settlement (CHESS),,
+New Year's Day,Wednesday 1 January,CLOSED,No Settlement,No Settlement,NO
+Australia Day,Monday 27 January3,CLOSED,No Settlement,No Settlement,NO
+Good Friday,Friday 10 April,CLOSED,No Settlement,No Settlement,NO
+Easter Monday,Monday 13 April,CLOSED,No Settlement,No Settlement,NO
+ANZAC Day,Saturday 25 April 6,CLOSED,No Settlement,No Settlement,NO
+Queen's Birthday,Monday 8 June,CLOSED,No Settlement,No Settlement,NO
+Last Business Day before Christmas Day,Thursday 24 December,CLOSE EARLY4,Settlement,Settlement,YES
+Christmas Day,Friday 25 December,CLOSED,No Settlement,No Settlement,NO
+Boxing Day,Monday 28 December,CLOSED,No Settlement,No Settlement,NO            
+Last Business Day of the Year,Thursday 31 December,CLOSE EARLY5,Settlement,Settlement,YES

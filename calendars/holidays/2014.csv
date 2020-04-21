@@ -1,0 +1,33 @@
+﻿Public Holiday,Dates for 2014,Applies to the Following States,Trading Day1,Settlement Activity -,Settlement Activity - ASX Clear (Derivatives),Business Day2
+,,,,ASX Settlement (CHESS),,
+New Year's Day,Wednesday 1 January,ALL,CLOSED,No Settlement,No Settlement,NO
+Devonport Cup,Wednesday 8 January,TAS3,OPEN,Settlement,Settlement,YES
+Australia Day,Monday 27 January,ALL,CLOSED,No Settlement,No Settlement,NO
+Royal Hobart Regatta,Monday 10 February,TAS4,OPEN,Settlement,Settlement,YES
+Launceston Cup,Wednesday 26 February,TAS5,OPEN,Settlement,Settlement,YES
+Labour Day,Monday 3 March,WA,OPEN,Settlement,Settlement,YES
+King Island Show,Tuesday 4 March,TAS6,OPEN,Settlement,Settlement,YES
+Labour Day / Eight Hours Day,Monday 10 March,VIC / TAS,OPEN,No Settlement,Settlement,NO
+Adelaide Cup / Canberra Day,,SA / ACT,,,,
+Good Friday,Friday 18 April,ALL,CLOSED,No Settlement,No Settlement,NO
+Easter Monday,Monday 21 April,ALL,CLOSED,No Settlement,No Settlement,NO
+ANZAC Day,Friday 25 April,ALL,CLOSED,No Settlement,No Settlement,NO
+AGFEST,Friday May,TAS7,OPEN,Settlement,Settlement,YES
+May Day,Monday 5 May,NT,OPEN,Settlement,Settlement,YES
+Western Australia Day,Monday 2 June,WA,OPEN,Settlement,Settlement,YES
+Queen's Birthday,Monday 9 June,ALL except WA,CLOSED,No Settlement,No Settlement,NO
+Bank Holiday / Picnic Day,Monday 4 August,NSW8 / NT,OPEN,No Settlement,Settlement,NO
+Royal QLD Show,Wednesday 13 August,QLD9,OPEN,Settlement,Settlement,YES
+Queen's Birthday,Monday 29 September,WA,OPEN,Settlement,Settlement,YES
+Burnie Show,Friday 3 October,TAS10,OPEN,Settlement,Settlement,YES
+Labour Day,Monday 6 October,"NSW, QLD, SA",OPEN,No Settlement,Settlement,NO
+,,& ACT,,,,
+Royal Launceston Show,Thursday 9 October,TAS11,OPEN,Settlement,Settlement,YES
+Flinders Island Show,Friday 17 October,TAS12,OPEN,Settlement,Settlement,YES
+Royal Hobart Show,Thursday 24 October,TAS13,OPEN,Settlement,Settlement,YES
+Melbourne Cup Day,Tuesday 4 November,VIC,OPEN,No Settlement,Settlement,NO
+Devonport Show,Friday 28 November,TAS14,OPEN,Settlement,Settlement,YES
+Last Business Day before Christmas Day,Wednesday 24 December,ALL,CLOSE EARLY15,Settlement,Settlement,YES
+Christmas Day,Thursday 25 December,ALL,CLOSED,No Settlement,No Settlement,NO
+Boxing Day / Proclamation Day,Friday 26 December,ALL / SA,CLOSED,No Settlement,No Settlement,NO
+Last Business Day of the Year,Wednesday 31 December,ALL,CLOSE EARLY16,Settlement,Settlement,YES

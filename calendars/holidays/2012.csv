@@ -1,0 +1,30 @@
+﻿Public Holiday,Dates for 2012,Applies to the following States,Trading Day1,Settlement Activity - ASX Settlement (CHESS),Settlement Activity - ASX Clear (Derivatives),Bus. Day2
+New Year’s Day,Monday 2 January,ALL ,CLOSED,No Settlement ,No Settlement,NO
+Devonport Cup,Wednesday 11 January,TAS3,OPEN,Settlement,Settlement ,YES 
+Australia Day,Thursday 26 January,ALL,CLOSED,No Settlement ,No Settlement,NO
+Royal Hobart Regatta,Monday 13 February,TAS4,OPEN,Settlement,Settlement,YES
+Launceston Cup,Wednesday 29 February,TAS5,OPEN,Settlement,Settlement ,YES
+Labour Day,Monday 5 March,WA,OPEN,Settlement,Settlement,YES
+King Island Show,Tuesday 6 March,TAS6,OPEN,Settlement,Settlement ,YES
+Labour Day / Eight Hours Day,Monday 12 March,VIC / TAS  ,OPEN,No Settlement ,Settlement ,NO
+Adelaide Cup / Canberra Day,,SA / ACT,,,,
+Good Friday,Friday 6 April,ALL,CLOSED,No Settlement ,No Settlement,NO
+Easter Monday,Monday 9 April,ALL,CLOSED,No Settlement ,No Settlement,NO
+ANZAC Day,Wednesday 25 April,ALL,CLOSED,No Settlement ,No Settlement,NO
+AGFEST,Friday 4 May,TAS7,OPEN,Settlement,Settlement,YES
+Labour Day,Monday 7 May,QLD,OPEN,Settlement,Settlement,YES
+Foundation Day,Monday 4 June,WA,OPEN,Settlement,Settlement ,YES
+Queen’s Birthday,Monday 11 June,ALL except WA,CLOSED,No Settlement ,No Settlement,NO
+Bank Holiday,Monday 6 August,NSW8,OPEN,No Settlement ,Settlement ,NO
+Royal QLD Show,Wednesday 15 August,QLD9,OPEN,Settlement,Settlement ,YES
+Labour Day / Queen's Birthday,Monday 1 October,"NSW, SA & ACT / WA",OPEN,No Settlement,Settlement,NO
+Burnie Show,Friday 5 October,TAS10,OPEN,Settlement,Settlement ,YES
+Royal Launceston Show,Thursday 11 October,TAS11,OPEN,Settlement,Settlement ,YES
+Flinders Island Show,Friday 19 October,TAS12,OPEN,Settlement,Settlement ,YES
+Royal Hobart Show,Thursday 25 October,TAS13,OPEN,Settlement,Settlement ,YES
+Melbourne Cup Day,Tuesday 6 November,VIC,OPEN,No Settlement ,Settlement ,NO
+Devonport Show,Friday 30 November,TAS14,OPEN,Settlement,Settlement ,YES
+Last Business Day before Christmas Day,Monday 24 December,ALL,CLOSE EARLY15,Settlement,Settlement ,YES
+Christmas Day,Tuesday 25 December,ALL,CLOSED,No Settlement ,No Settlement,NO
+Boxing Day / Proclamation Day,Wednesday 26 December,ALL / SA,CLOSED,No Settlement ,No Settlement,NO
+Last Business Day of the Year,Monday 31 December,ALL,CLOSE EARLY 16,Settlement,Settlement ,YES

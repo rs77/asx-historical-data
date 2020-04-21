@@ -1,0 +1,34 @@
+﻿Public Holiday,Date,Applies to the following ,Trading Day1,Settlement Activity - ASTC (CHESS),Settlement Activity - ACH (DCS),Bus. Day2
+,,States,,,,
+New Year’s Day,Monday 1 January,ALL,Closed,No Settlement - ASTC,No Settlement - ACH,No
+Devonport Cup,Wednesday 10 January,TAS3,Open,Settlement - ASTC,Settlement - ACH,Yes
+Australia Day,Friday 26 January,ALL,Closed,No Settlement - ASTC,No Settlement - ACH,No
+Royal Hobart Regatta,Monday 12 February,TAS4,Open,Settlement - ASTC,Settlement - ACH,Yes
+Launceston Cup,Wednesday 28 February,TAS5,Open,Settlement - ASTC,Settlement - ACH,Yes
+Labour Day,Monday 5 March,WA6,Open,Settlement - ASTC,Settlement - ACH,Yes
+King Island Show,Tuesday 6 March,TAS7,Open,Settlement - ASTC,Settlement - ACH,Yes
+Labour Day/Eight Hours Day/Adelaide Cup Day,Monday 12 March,VIC / TAS / SA,Open,No Settlement - ASTC,Settlement - ACH,No
+Canberra Day,Monday 19 March,ACT8,Open,Settlement - ASTC,Settlement - ACH,Yes
+Easter Thursday,Thursday 5 April,ALL,Close early9,Settlement - ASTC,Settlement - ACH,Yes
+Good Friday,Friday 6 April,ALL,Closed,No Settlement - ASTC,No Settlement - ACH,No
+Easter Monday,Monday 9 April,ALL,Closed,No Settlement - ASTC,No Settlement - ACH,No
+Easter Tuesday,Tuesday 10 April,TAS10,Open,Settlement - ASTC,Settlement - ACH,Yes
+ANZAC Day Holiday,Wednesday 25 April,ALL,Closed,No Settlement - ASTC,No Settlement - ACH,No
+AGFEST,Friday 4 May,TAS11,Open,Settlement - ASTC,Settlement - ACH,Yes
+Labour Day,Monday 7 May,QLD12,Open,Settlement - ASTC,Settlement - ACH,Yes
+Foundation Day,Monday 4 June,WA13,Open,Settlement - ASTC,Settlement - ACH,Yes
+Queen’s Birthday,Monday 11 June,ALL except WA,Closed,No Settlement - ASTC,No Settlement - ACH,No
+Bank Holiday,Monday 6 August,NSW14,Open,No Settlement - ASTC,Settlement - ACH,No
+Royal QLD Show,Wednesday 15 August,QLD15,Open,Settlement - ASTC,Settlement - ACH,Yes
+APEC Summit,Friday 7 September,NSW16,Open ,No Settlement - ASTC,Settlement - ACH ,No
+Labour Day / Queen’s Birthday,Monday 1 October,"NSW, SA, ACT /  WA",Open,No Settlement - ASTC,Settlement - ACH,No
+Burnie Show,Friday 5 October,TAS17,Open,Settlement - ASTC,Settlement - ACH,Yes
+Royal Launceston Show,Thursday 11 October,TAS18,Open,Settlement - ASTC,Settlement - ACH,Yes
+Flinders Island Show,Friday 19 October,TAS19,Open,Settlement - ASTC,Settlement - ACH,Yes
+Royal Hobart Show,Thursday 25 October,TAS20,Open,Settlement - ASTC,Settlement - ACH,Yes
+Melbourne Cup Day,Tuesday 6 November,VIC21,Open,No Settlement - ASTC,Settlement - ACH,No
+Devonport Show,Friday 30 November,TAS22,Open,Settlement - ASTC,Settlement - ACH,Yes
+Last Business Day before Christmas Day,"Monday, 24 December",ALL,Close early23,Settlement - ASTC,Settlement - ACH,Yes
+Christmas Day,Tuesday 25 December,ALL,Closed,No Settlement - ASTC,No Settlement - ACH,No
+Boxing Day,Wednesday 26 December,ALL,Closed,No Settlement - ASTC,No Settlement - ACH,No
+Last Business Day of the Year,Monday 31 December,ALL,Close early24,Settlement - ASTC,Settlement - ACH,Yes
