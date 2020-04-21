@@ -1,6 +1,6 @@
 # ASX Historical Stock & Options Data
 
-A hobby project to collect and collate historical Australian Stock Market data from various public websites.
+A personal hobby project to collect and collate historical Australian Stock Market data from various public websites.
 
 # TODOs
 
