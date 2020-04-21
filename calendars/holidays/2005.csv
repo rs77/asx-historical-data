@@ -1,4 +1,4 @@
-﻿Public Holiday,Date,Applies to the following ,Trading Day1,Settlement Activity - ASTC (CHESS),Settlement Activity - ACH (DCS),Buss. Day2
+﻿Public Holiday,Date,Applies to the following States,Trading Day1,Settlement Activity - ASTC (CHESS),Settlement Activity - ACH (DCS),Buss. Day2
 New Year's Day,Sat 1 Jan/Mon 3 Jan3,All States,Closed,No Settlement-ASTC,No Settlement-ACH,No
 Davenport Cup,Wed 5 Jan,TAS 4,Open,Settlement-ASTC,Settlement-ACH,Yes
 Australia Day,Wed 26 Jan,All States,Closed,No Settlement-ASTC,No Settlement-ACH,No
