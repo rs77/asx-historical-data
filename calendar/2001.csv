@@ -1,0 +1,31 @@
+﻿Public Holiday,Date,Applies to these states,SEATS/ CLICK,Settlement/No settlement,Business day *
+New Year’s Day,Mon 1 Jan,All States,Closed,No Settlement,NO
+Devonport Cup,Wed 10 Jan,TAS1,Open,Settlement,YES
+Australia Day,Fri 26 Jan,All States,Closed,No Settlement,NO
+Royal Hobart Regatta,Mon 12 Feb,TAS1,Open,Settlement,YES
+Launceston Cup,Wed 28 Feb,TAS1,Open,Settlement,YES
+Labour Day,Mon 5 Mar,WA,Open,Settlement,YES
+King Island Show,Tue 6 Mar,TAS1,Open,Settlement,YES
+Labour Day / Eight Hours Day / Canberra Day,Mon 12 Mar,VIC/TAS/ACT,Open,No Settlement,NO
+Easter Thursday,Thur 12 Apr,All States,Open,Settlement,YES
+Good Friday,Fri 13 Apr,All States,Closed,No Settlement,NO
+Easter Monday,Mon 16 Apr,All States,Closed,No Settlement,NO
+ANZAC Day,Wed 25 Apr,All States,Closed,No Settlement,NO
+Labour Day,Mon 7 May,QLD,Open,Settlement,YES
+Adelaide Cup Day,Mon 21 May,SA,Open,Settlement,YES
+Foundation Day,Mon 4 Jun,WA,Open,Settlement,YES
+Queen’s Birthday,Mon 11 Jun,All States except WA,Closed,No Settlement,NO
+Bank Holiday,Mon 6 Aug,NSW3,Open,No Settlement,NO
+Royal National Show Day,Wed 15 Aug,QLD4,Open,Settlement,YES
+Labour Day / Queens Birthday,Mon 1 Oct,NSW/ACT/SA/WA,Open,No Settlement,NO
+Burnie Show,Fri 5 Oct,TAS1,Open,Settlement,YES
+Launceston Show,Thur 11 Oct,TAS1,Open,Settlement,YES
+Flinders Island Show,Fri 19 Oct,TAS1,Open,Settlement,YES
+Hobart Show,Thur 25 Oct,TAS1,Open,Settlement,YES
+Recreation Day,Mon 5 Nov,TAS1,Open,Settlement,YES
+Melbourne Cup Day,Tue 6 Nov,VIC5,Open,No Settlement,NO
+Devonport Show,Fri 30 Nov,TAS1,Open,Settlement,YES
+Christmas Eve,Mon 24 Dec,All States,Open,Settlement,YES
+Christmas Day,Tue 25 Dec,All States,Closed,No Settlement,NO
+Boxing Day / Proclamation Day,Wed 26 Dec,All States,Closed,No Settlement,NO
+New Year’s Eve,Mon 31 Dec,All States,Open,Settlement,YES
