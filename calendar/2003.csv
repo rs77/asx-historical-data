@@ -1,0 +1,34 @@
+﻿Public Holiday,Date,Applies to these States,Trading Day1,Settlement Activity - ASTC (CHESS)*,Settlement Activity - OCH (DCS)**,Business Day2
+New Year's Day,Wed 1 Jan,All States,Closed,No Settlement,No Settlement,No
+Davenport Cup,Wed 8 Jan,TAS4,Open,Settlement,Settlement,Yes
+Australia Day,Mon 27 Jan,All States,Closed,No Settlement,No Settlement,No
+Royal Hobart Regatta,Mon 10 Feb,TAS4,Open,Settlement,Alternative Settlement - OCH3,Yes
+Launceston Cup,Wed 26 Feb,TAS4,Open,Settlement,Settlement,Yes
+Labour Day,Mon 3 Mar,WA,Open,Settlement,Alternative Settlement - OCH3,Yes
+King Island Show,Tue 4 Mar,TAS4,Open,Settlement,Settlement,Yes
+Labour Day/Eight Hours Day,Mon 10 Mar,VIC/TAS,Open,No Settlement,Alternative Settlement - OCH3,No
+Canberra Day,Mon 17 Mar,ACT,Open,Settlement,Settlement,Yes
+Good Friday,Fri 18 Apr,All States,Closed,No Settlement,No Settlement,No
+Easter Monday,Mon 21 Apr,All States,Closed,No Settlement,No Settlement,No
+Easter Tuesday,Tue 22 Apr,TAS4,Open,Settlement,Alternative Settlement - OCH3,Yes
+ANZAC Day,Fri 25 Apr,All States,Closed,No Settlement,No Settlement,No
+AGFEST,Fri 2 May,TAS4,Open,Settlement,Settlement,Yes
+Labour Day,Mon 5 May,QLD,Open,Settlement,Alternative Settlement - OCH3,Yes
+Adelaide Cup Day,Mon 19 May,SA,Open,Settlement,Settlement,Yes
+Foundation Day,Mon 2 Jun,WA,Open,Settlement,Alternative Settlement - OCH3,Yes
+Queen's Birthday,Mon 9 Jun,All States except WA,Closed,No Settlement,No Settlement,No
+Bank Holiday,Mon 4 Aug,NSW5,Open,No Settlement,Alternative Settlement - OCH3,No
+Royal National Show Day,Wed 13 Aug,QLD6,Open,Settlement,Alternative Settlement - OCH3,Yes
+Queen's Birthday,Mon 29 Sep,WA,Open,Settlement,Alternative Settlement - OCH3,Yes
+Burnie Show,Fri 3 Oct,TAS4,Open,Settlement,Settlement,Yes
+Labour Day,Mon 6 Oct,NSW/ACT/SA,Open,No Settlement,Alternative Settlement - OCH3,No
+Royal Launceston Show,Thur 9 Oct,TAS4,Open,Settlement,Settlement,Yes
+Flinders Island Show,Fri 17 Oct,TAS4,Open,Settlement,Settlement,Yes
+Royal Hobart Show,Thur 23 Oct,TAS4,Open,Settlement,Settlement,Yes
+Recreation Day,Mon 3 Nov,TAS4,Open,Settlement,Settlement,Yes
+Melbourne Cup Day,Tue 4 Nov,VIC7,Open,No Settlement,Alternative Settlement - OCH3,No
+Davenport Show,Fri 28 Nov,TAS4,Open,Settlement,Settlement,Yes
+Christmas Eve,Wed 24 Dec,All States,Close Early8,Settlement,Settlement,Yes
+Christmas Day,Thur 25 Dec,All States,Closed,No Settlement,No Settlement,No
+Boxing Day / Proclamation Day,Fri 26 Dec,All States,Closed,No Settlement,No Settlement,No
+New Year's Eve,Wed 31 Dec,All States,Close Early8,Settlement,Settlement,Yes
