@@ -44,7 +44,8 @@ def __main__():
     password: str = os.getenv("PASSWORD_COMMSEC")
     chrome_options = webdriver.ChromeOptions()
     chrome_options.add_argument("--incognito")
-    csv_path: str = os.getcwd() + "/csv"
+    main_dir: str = os.path.dirname(os.getcwd())
+    csv_path: str = main_dir + "/csv"
     prefs = {
         "download.default_directory": csv_path
     }
@@ -68,7 +69,7 @@ def __main__():
     for o in format_opts:
         if 'Stock Easy' in o.text:  # Stock Easy format preferred as it lists the dates as YYYYMMDD
             o.click()
-    start_date: date = date(2017, 1, 1)
+    start_date: date = date(2020, 1, 1)
     end_date: date = date.today()
     while start_date < end_date:
         date_fld: WebElement = browser.find_element_by_xpath(
@@ -77,8 +78,9 @@ def __main__():
         js_txt: str = f"arguments[0].value = '{date_txt}'"
         browser.execute_script(js_txt, date_fld)
         # check if we already have this date
-        eto_loc: str = f"{os.getcwd()}/prices/etos/*{start_date:%Y%m%d}*"
-        eqt_loc: str = f"{os.getcwd()}/prices/equities/*{start_date:%Y%m%d}*"
+
+        eto_loc: str = f"{main_dir}/prices/etos/*{start_date:%Y%m%d}*"
+        eqt_loc: str = f"{main_dir}/prices/equities/*{start_date:%Y%m%d}*"
         if start_date.isoweekday() < 6:
             find_eto_file: List[str] = glob.glob(eto_loc)
             if len(find_eto_file) == 0:
