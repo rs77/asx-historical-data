@@ -78,9 +78,8 @@ def __main__():
         js_txt: str = f"arguments[0].value = '{date_txt}'"
         browser.execute_script(js_txt, date_fld)
         # check if we already have this date
-
-        eto_loc: str = f"{main_dir}/prices/etos/*{start_date:%Y%m%d}*"
-        eqt_loc: str = f"{main_dir}/prices/equities/*{start_date:%Y%m%d}*"
+        eto_loc: str = f"{main_dir}/prices/etos/*/{start_date:%Y%m%d}.csv"
+        eqt_loc: str = f"{main_dir}/prices/equities/*/{start_date:%Y%m%d}.csv"
         if start_date.isoweekday() < 6:
             find_eto_file: List[str] = glob.glob(eto_loc)
             if len(find_eto_file) == 0:

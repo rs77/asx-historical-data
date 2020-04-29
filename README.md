@@ -13,3 +13,5 @@ If you'd like to add additional data feel free to submit a pull request.
 + 5/09/2018 - 11/09/2018
 + 9/11/2018 - 2/01/2019
 + 9/07/2019 - 6/08/2019
+
+2. Expiry of option dates before 2005
