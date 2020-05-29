@@ -15,9 +15,9 @@ def __main__():
         file_name: str = re.sub(r"\D", "", file_name) + ".csv"
         folder_sub: str = file_name[:4]
         if 'equities' in f.lower():
-            shutil.move(f, f"{main_dir}/prices/equities/{folder_sub}/{new_file_name}")
+            shutil.move(f, f"{main_dir}/prices/equities/{folder_sub}/{file_name}")
         elif 'etos' in f.lower():
-            shutil.move(f, f"{main_dir}/prices/etos/{folder_sub}/{new_file_name}")
+            shutil.move(f, f"{main_dir}/prices/etos/{folder_sub}/{file_name}")
 
 
 __main__()
