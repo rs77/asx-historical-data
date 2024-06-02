@@ -55,6 +55,7 @@ def move_file(default_loc, new_loc: str):
     shutil.move(os.path.join(default_loc, csv_file), new_loc)
 
 def __main__():
+    start_date: date = date(2021, 7, 5)
     username: str = os.getenv("USERNAME_COMMSEC")
     password: str = os.getenv("PASSWORD_COMMSEC")
     chrome_options = webdriver.ChromeOptions()
@@ -88,7 +89,6 @@ def __main__():
     for o in format_opts:
         if 'Stock Easy' in o.text:  # Stock Easy format preferred as it lists the dates as YYYYMMDD
             o.click()
-    start_date: date = date(2021, 7, 5)
     end_date: date = date.today()
     while start_date < end_date:
         date_fld: WebElement = browser.find_element(By.XPATH, 
